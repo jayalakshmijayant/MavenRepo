@@ -13,8 +13,6 @@
     <property name="test.src" value="${ws.home}/src"/>
 	<property name="test.reportsDir" value="C:/JayaFileHandling"/>
 
-	
-
 	<path id="testcase.path">
 
 
